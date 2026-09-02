@@ -1,4 +1,4 @@
-# 🧠 CogniStack - Discover Your Cognitive Potential
+# CogniStack - Discover Your Cognitive Potential
 
 [![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-blue.svg)](https://www.typescriptlang.org/)
